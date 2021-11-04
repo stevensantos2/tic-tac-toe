@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Goal
+
+The goal of this project was to practice using React's functional components, props and hooks to create a tic-tac-toe game.
+You can click [here](https://main.dswbw3j3h6mu1.amplifyapp.com/) to play the game.
+  > This site is deployed using AWS Amplify which is a set of puspose-build tools that makes it easy to build full-stack applications on AWS
+
 ## Available Scripts
 
 In the project directory, you can run:
